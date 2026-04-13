@@ -92,7 +92,3 @@ Universidad Rafael Urdaneta (URU), Maracaibo, Venezuela
 
 ---
 
-Si quieres, puedo:
-- Ejecutar un formateo adicional o agregar badges de estado.
-- Actualizar `requirements.txt` con versiones fijas.
-Indica qué prefieres.
