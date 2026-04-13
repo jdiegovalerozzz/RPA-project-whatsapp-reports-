@@ -86,9 +86,5 @@ python src/rpa_bot.py
 - Análisis por canal de captación
 - Segmentación de ventas por tipo de cliente
 
-## Autor
-Juan Diego Valero Romero — Estudiante de Ingeniería de Computación
-Universidad Rafael Urdaneta (URU), Maracaibo, Venezuela
-
 ---
 
